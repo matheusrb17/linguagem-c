@@ -17,7 +17,7 @@ void main(){
     int c = n1 ^ n2;
 
     printf("------ OPERADORES BITWISE ------\n");
-    printf("Calculando %i & %i é igual a %i \n", n1, n2, a);
-    printf("Calculando %i & %i é igual a %i \n", n1, n2, b);
-    printf("Calculando %i & %i é igual a %i \n", n1, n2, c);
+    printf("Calculando %i & %i e igual a %i \n", n1, n2, a);
+    printf("Calculando %i | %i e igual a %i \n", n1, n2, b);
+    printf("Calculando %i ^ %i e igual a %i \n", n1, n2, c);
 }
